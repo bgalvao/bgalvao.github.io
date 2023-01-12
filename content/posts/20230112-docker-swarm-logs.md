@@ -1,6 +1,6 @@
 ---
 title: "Get the right container log from a Docker Swarm service"
-date: 2022-01-12
+date: 2023-01-12
 draft: false
 tags: ["misc", "devops", "docker", "docker swarm"]
 ---
